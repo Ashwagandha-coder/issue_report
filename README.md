@@ -6,10 +6,10 @@
 
 Нужно добавить в MainActivity в колбек attachBaseContext код:
 
-'''Kotlin
+```Kotlin
 
 var override = Configuration(newBase.resources.configuration)
 override.fontScale = 1.0f
 applyOverrideConfiguration(override)
 
-'''
+```
