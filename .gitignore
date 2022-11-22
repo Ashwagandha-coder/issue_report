@@ -1,5 +1,6 @@
 
 /*
+!.idea
 !.gitignore
 !README.md
 *.iml
@@ -17,3 +18,4 @@
 .externalNativeBuild
 .cxx
 local.properties
+
